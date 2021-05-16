@@ -13,15 +13,13 @@ function App() {
 				</article>
 				<article class="browser">
 					<h2>Safari</h2>
-					<p>Safari is a web browser developed by Apple, released in <span class="year">2003</span>. It uses the
-				<strong>WebKit</strong> browser
+					<p>Safari is a web browser developed by Apple, released in <span class="year">2003</span>. It uses the <strong>WebKit</strong> browser
 				rendering engine and the <strong>JavaScriptCore</strong> rendering engine.
 			</p>
 				</article>
 				<article class="browser">
 					<h2>Chrome</h2>
-					<p>Chrome is a web browser developed by Google, released in <span class="year">2008</span>. It uses the
-				<strong>Blink</strong> rendering
+					<p>Chrome is a web browser developed by Google, released in <span class="year">2008</span>. It uses the <strong>Blink</strong> rendering
 				engine and the <strong>V8</strong> JavaScript rendering engine.
 			</p>
 				</article>
